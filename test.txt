@@ -1,4 +1,4 @@
-this is is my first commit
+this is again a commit
 
 some text for commit 2
 
