@@ -1,3 +1,7 @@
 this is is my first commit
 
 some text for commit 2
+
+and some more
+
+commit for merge test
