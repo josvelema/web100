@@ -1,7 +1,3 @@
 this is again a commit
 
-some text for commit 2
-
-and some more
-
 commit for merge test
